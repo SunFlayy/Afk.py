@@ -1,4 +1,4 @@
-# meta developer: @ll_ademov_ll
+# meta developer: @SunFlayyCoder
 
 import datetime
 import logging
